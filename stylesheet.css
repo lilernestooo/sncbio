@@ -1,0 +1,45 @@
+/* Full-page background */
+#register-body {
+    background: url("/Users/mac/Documents/st.nicho.jpg") no-repeat center center fixed;
+    background-size: cover;
+  }
+  
+  /* Card background and style */
+  .card {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 15px;
+  }
+  
+  /* Custom header */
+  .custom-header-bg {
+    background-color: #0d6efd;
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  
+  /* Custom button width */
+  .btn-width {
+    width: 75%;
+  }
+
+  /* log.html*/
+  /* Full background image */
+#login-body {
+    background: url("/Users/mac/Documents/st.nicho.jpg") no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Login card style */
+  .card {
+    background-color: rgba(255, 255, 255, 0.95);
+    border-radius: 15px;
+  }
+  
+  /* Custom button width */
+  .btn-width {
+    width: 75%;
+  }
+  
+  
